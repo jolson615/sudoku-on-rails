@@ -1,24 +1,6 @@
-# README
+# Sudoku On Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Test app to make sure I can run a Rails framework for a basic i/o app with a fairly complicated sudoku model
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Items not addressed:
+* Poor handling of paradox boards.
